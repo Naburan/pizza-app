@@ -5,4 +5,4 @@ I've tried to take my approach of the design of this pizza picking app: https://
 This is in work-in-progress. :)
 
 
-![alt text](https://github.com/Naburan/pizza-app/app-screenshot/first_image.png?raw=true)
+![alt text](https://github.com/Naburan/pizza-app/blob/master/app-screenshots/first_image.png?raw=true)
